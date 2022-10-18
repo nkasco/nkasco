@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasco)](https://github.com/anuraghazra/github-readme-stats)
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasco&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nkasco/nkasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
